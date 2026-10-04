@@ -66,10 +66,6 @@ Welcome! This GitHub account serves as the central hub for our hackathon submiss
 
 ### 📫 Get in Touch & Collaborate
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
-- 🐦 **X (Twitter):** [@your_handle](https://x.com)
-- 📧 **Email:** [ali@example.com](mailto:ali@example.com)
-- 🌐 **Portfolio / Devpost:** [your-portfolio.com](https://your-portfolio.com)
 
 <div align="center">
   <sub>Built for speed and innovation during hackathons.</sub>
